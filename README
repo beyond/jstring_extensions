@@ -1,14 +1,13 @@
 JstringExtensions
 =================
 
-“ú–{Œê—p‚Ì String Šg’£‚Å‚·B
+æ—¥æœ¬èªç”¨ã® String æ‹¡å¼µã§ã™ã€‚
 
 	String#jstrip
   String#jstrip!
 
 Example
 =======
-
 
 
 Copyright (c) 2009 [name of plugin creator], released under the MIT license
