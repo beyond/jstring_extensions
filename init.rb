@@ -1,7 +1,5 @@
-# Include hook code here
+# encoding: utf-8
 
 require 'jstring_extensions'
 
-class String #:nodoc:
-  include ActiveSupport::CoreExtensions::String::JStringExtensions
-end
+String.send :include, ActiveSupport::CoreExtensions::String::JStringExtensions
